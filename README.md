@@ -7,3 +7,5 @@
 - [003](/003/info.md) End to End Power Bi Quality Dashboard just in 30 minutes
 
 - [004](/004/info.md) Basic Financial Analysis Dashboard
+
+- [005](/005/info.md) Create an Amazing Power BI Dashboard in 19 minutes | Amazon Prime Movies and TV Shows
