@@ -2,7 +2,7 @@
 
 ### Step-by-step Guide:
 
-- https://youtu.be/IbAp9sxlNnE?si=KuFN2yX3ySTwDV0Z
+- https://youtu.be/IbAp9sxlNnE
 
 ### CSV file locaitons:
 
