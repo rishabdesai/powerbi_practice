@@ -21,3 +21,7 @@
 - [006](/006/info.md) Create an Amazing Power BI Dashboard in 19 minutes | Amazon Prime Movies and TV Shows
 
 > Youtube Ref: https://www.youtube.com/watch?v=qiLViMzzANE
+
+- [007](/007/info.md) Performance Dashboard in Power BI Under 20 Minutes - FAST
+
+> Youtube Ref: https://www.youtube.com/watch?v=NTvs47yrKjo
