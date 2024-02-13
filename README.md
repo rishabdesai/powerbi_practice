@@ -25,3 +25,7 @@
 - [007](/007/info.md) Performance Dashboard in Power BI Under 20 Minutes - FAST
 
 > Youtube Ref: https://www.youtube.com/watch?v=NTvs47yrKjo
+
+- [008](/008/info.md) Power BI Dashboard | Power Bi Project - Sales Dashboard
+
+> Youtube Ref: https://www.youtube.com/watch?v=SSKBWBg12sI
