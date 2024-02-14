@@ -29,3 +29,5 @@
 - [008](/008/info.md) Power BI Dashboard | Power Bi Project - Sales Dashboard
 
 > Youtube Ref: https://www.youtube.com/watch?v=SSKBWBg12sI
+
+- [009](/009/info.md) Practice
