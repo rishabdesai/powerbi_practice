@@ -35,3 +35,7 @@
 - [010](/010/info.md) Power BI Beginners: Getting Started Tutorial
 
 > Youtube Ref: https://www.youtube.com/watch?v=-0-AEewucwQ
+
+- [012](/012/info.md) Power Query Data Cleaning & Transformation
+
+> Youtube Ref: https://youtu.be/iKCXZBRy0q8
