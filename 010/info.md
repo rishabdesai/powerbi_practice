@@ -14,6 +14,11 @@
 - [Stores](/010/Dataset - Stores.xlsx)
 - [Customers](/010/Dataset - Customers.xlsx)
 
+- https://github.com/powerbibro/powerbibro/blob/main/Dataset%20-%20Stores.xlsx
+- https://github.com/powerbibro/powerbibro/blob/main/Dataset%20-%20Products.xlsx
+- https://github.com/powerbibro/powerbibro/blob/main/Dataset%20-%20Customers.xlsx
+- https://github.com/powerbibro/powerbibro/blob/main/Dataset%20-%20Sales.xlsx
+
 ### Power BI file:
 
 - [Link](/010/010.pbix)
