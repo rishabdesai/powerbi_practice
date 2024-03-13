@@ -31,3 +31,7 @@
 > Youtube Ref: https://www.youtube.com/watch?v=SSKBWBg12sI
 
 - [009](/009/info.md) Practice
+
+- [010](/010/info.md) Power BI Beginners: Getting Started Tutorial
+
+> Youtube Ref: https://www.youtube.com/watch?v=-0-AEewucwQ
