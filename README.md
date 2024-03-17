@@ -14,11 +14,11 @@
 
 > Youtube Ref: youtube.com/watch?v=lvcQBFEWZEA
 
-- [005](/005/info.md) Create an Amazing Power BI Dashboard in 19 minutes | Amazon Prime Movies and TV Shows
+- [005](/005/info.md) Amazon Prime Movies and TV Shows
 
 > Youtube Ref: https://www.youtube.com/watch?v=_xs8XXlGQVM
 
-- [006](/006/info.md) Create an Amazing Power BI Dashboard in 19 minutes | Amazon Prime Movies and TV Shows
+- [006](/006/info.md) Netflix Movies and TV Shows
 
 > Youtube Ref: https://www.youtube.com/watch?v=qiLViMzzANE
 

@@ -1,4 +1,4 @@
-## ## Create an Amazing Power BI Dashboard in 19 minutes | Amazon Prime Movies and TV Shows
+## ## Create an Amazing Power BI Dashboard in 19 minutes | Netflix Movies and TV Shows
 
 ### Step-by-step Guide:
 
