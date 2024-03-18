@@ -39,3 +39,7 @@
 - [012](/012/info.md) Power Query Data Cleaning & Transformation
 
 > Youtube Ref: https://youtu.be/iKCXZBRy0q8
+
+- [014](/014/info.md) - Power BI Video Venkat Reddy AI Classes
+
+> Youtube Ref: https://www.youtube.com/playlist?list=PL2hXNYim5xvqW59QZ-6VX39AqTvKCoWvs
