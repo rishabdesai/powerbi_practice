@@ -40,9 +40,9 @@
 
 > Youtube Ref: https://youtu.be/iKCXZBRy0q8
 
-- [014](/014/info.md) - Power BI Video Venkat Reddy AI Classes
+> [014](/014/info.md) - Power BI Video Venkat Reddy AI Classes
 
-> Youtube Ref: https://www.youtube.com/playlist?list=PL2hXNYim5xvqW59QZ-6VX39AqTvKCoWvs
+- Youtube Ref: https://www.youtube.com/playlist?list=PL2hXNYim5xvqW59QZ-6VX39AqTvKCoWvs
 
 > [015](/015/info.md) - Deeep Dive into Power Query, DAX & Dashboard by Venkata Reddy
 
