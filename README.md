@@ -8,11 +8,11 @@
 
 - [003](/003/info.md) End to End Power Bi Quality Dashboard just in 30 minutes
 
-> Youtube Ref: youtube.com/watch?v=nfYWdHyAL4I
+> Youtube Ref: https://youtube.com/watch?v=nfYWdHyAL4I
 
 - [004](/004/info.md) Basic Financial Analysis Dashboard
 
-> Youtube Ref: youtube.com/watch?v=lvcQBFEWZEA
+> Youtube Ref: https://youtube.com/watch?v=lvcQBFEWZEA
 
 - [005](/005/info.md) Amazon Prime Movies and TV Shows
 
@@ -43,3 +43,13 @@
 - [014](/014/info.md) - Power BI Video Venkat Reddy AI Classes
 
 > Youtube Ref: https://www.youtube.com/playlist?list=PL2hXNYim5xvqW59QZ-6VX39AqTvKCoWvs
+
+> [015](/015/info.md) - Deeep Dive into Power Query, DAX & Dashboard by Venkata Reddy
+
+ - youtube ref: https://youtube.com/watch?v=yAGuOaJkevs
+
+> [016](/016/info.md) - Power BI: Snowflake vs. Star Schema explained in detail, with Simple Example and a Dashboard
+
+- youtube ref: https://youtube.com/watch?v=6XJz5uY4LZo
+
+  
