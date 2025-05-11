@@ -40,16 +40,16 @@
 
 > Youtube Ref: https://youtu.be/iKCXZBRy0q8
 
-> [014](/014/info.md) - Power BI Video Venkat Reddy AI Classes
+- [014](/014/info.md) - Power BI Video Venkat Reddy AI Classes
 
-- Youtube Ref: https://www.youtube.com/playlist?list=PL2hXNYim5xvqW59QZ-6VX39AqTvKCoWvs
+> Youtube Ref: https://www.youtube.com/playlist?list=PL2hXNYim5xvqW59QZ-6VX39AqTvKCoWvs
 
-> [015](/015/info.md) - Deeep Dive into Power Query, DAX & Dashboard by Venkata Reddy
+- [015](/015/info.md) - Deeep Dive into Power Query, DAX & Dashboard by Venkata Reddy
 
- - youtube ref: https://youtube.com/watch?v=yAGuOaJkevs
+> youtube ref: https://youtube.com/watch?v=yAGuOaJkevs
 
-> [016](/016/info.md) - Power BI: Snowflake vs. Star Schema explained in detail, with Simple Example and a Dashboard
+- [016](/016/info.md) - Power BI: Snowflake vs. Star Schema explained in detail, with Simple Example and a Dashboard
 
-- youtube ref: https://youtube.com/watch?v=6XJz5uY4LZo
+> youtube ref: https://youtube.com/watch?v=6XJz5uY4LZo
 
   
