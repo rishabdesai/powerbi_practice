@@ -52,6 +52,12 @@
 
 > youtube ref: https://youtube.com/watch?v=6XJz5uY4LZo
 
+<img src="https://github.com/rishabdesai/powerbi_practice/blob/main/016/016.png?raw=true" height="200"/>
+
+- [017](/017/info.md) - Build a Real-Time Executive Dashboard with SQL + Power BI
+
+> youtube ref: https://www.youtube.com/watch?v=yhbNvqy2cMg
+
 <img src="https://github.com/rishabdesai/powerbi_practice/blob/main/017/017.png?raw=true" height="200"/>
 
 
