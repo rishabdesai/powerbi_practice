@@ -52,7 +52,7 @@
 
 > youtube ref: https://youtube.com/watch?v=6XJz5uY4LZo
 
-<img src="https://github.com/rishabdesai/powerbi_practice/blob/main/016/016.png?raw=true" height="200"/>
+<img src="https://github.com/rishabdesai/powerbi_practice/blob/main/017/017.png?raw=true" height="200"/>
 
 
   
