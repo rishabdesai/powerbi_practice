@@ -60,5 +60,11 @@
 
 <img src="https://github.com/rishabdesai/powerbi_practice/blob/main/017/017.png?raw=true" height="200"/>
 
+- [018](/018/info.md) - Learn Power BI | Go from Data to Dashboard in 15 Minutes (Airline - on-time, delayed, cancelled)
+
+> youtube ref: https://www.youtube.com/watch?v=aLV4Qe60VK4
+
+<img src="https://github.com/rishabdesai/powerbi_practice/blob/main/018/018_1.png?raw=true" height="200"/>
+
 
   
